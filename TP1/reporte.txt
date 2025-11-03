@@ -1,0 +1,12 @@
+REPORTE FINAL DEL ANALISIS BIOMETRICO
+==================================================
+
+CANTIDAD TOTAL DE BLOQUES: 60
+
+BLOQUES CON ALERTAS: 0 (0.00% del total)
+
+PROMEDIO GENERAL:
+  Frecuencia cardiaca: 128.03 BPM
+  Presion arterial: 139.38 mmHg
+  Saturacion de oxigeno: 95.06%
+
